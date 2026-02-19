@@ -4,11 +4,11 @@ WARNING: Contains sensitive credentials
 Do NOT commit to public repository
 """
 
-# AWS Example (optional)
-AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
-AWS_SECRET_ACCESS_KEY = "exampleSecretKeyForIRDrillOnly"
+# AWS  (optional)
+AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7custmdata"
+AWS_SECRET_ACCESS_KEY = "SecretKeyForIRDrillOnly"
 
-# Azure Example (optional)
+# Azure  (optional)
 AZURE_CLIENT_SECRET = "azure-client-secret-example"
 
 # ---------------------------------------------------
