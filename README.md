@@ -1,4 +1,4 @@
-# Customer Analytics API
+# Customer Analytics 
 
 Backend microservice for customer risk scoring.
 
